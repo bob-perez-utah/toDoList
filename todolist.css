@@ -1,0 +1,15 @@
+li {
+    border: 2px solid rgb(255, 155, 155);
+}
+
+h1 {
+    color: red;
+}
+
+#special {
+    background-color: aqua;
+}
+
+.completed {
+    text-decoration-line: line-through;
+}
